@@ -1,3 +1,5 @@
+This projet a completed during UDACITY Nano degree program in which we were using models to make faster decision on computer vision tasks.
+
 # Computer Pointer Controller
 
 Computer Pointer Controller is an application that uses gaze detection from your input whether it is a camera or pre recorder video to control and track your mouse pointer.
